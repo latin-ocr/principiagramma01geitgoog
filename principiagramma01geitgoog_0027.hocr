@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./principiagramma01geitgoog_0027.png"; bbox 0 0 2696 4580; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 246 96 1144 376">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 246 96 1144 376">
+     <span class='ocr_line' id='line_1_1' title="bbox 708 96 847 191; baseline -0.022 -1"><span class='ocrx_word' id='word_1_1' title='bbox 708 97 762 191; x_wconf 50' lang='grc' dir='ltr'><strong>(ἃ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 789 96 847 187; x_wconf 85' lang='lat'><strong>1·)</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 246 224 1144 376; baseline 0.002 -40"><span class='ocrx_word' id='word_1_3' title='bbox 246 330 254 336; x_wconf 86' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 376 224 731 376; x_wconf 30' lang='lat' dir='ltr'>[ALPHABETUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 774 243 1144 340; x_wconf 66' lang='lat' dir='ltr'><strong>Nmossmnsmtm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 337 519 1196 645">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 337 519 1196 645">
+     <span class='ocr_line' id='line_1_3' title="bbox 337 519 1196 645; baseline 0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 337 583 458 645; x_wconf 77' lang='lat' dir='ltr'>Nomen</span> <span class='ocrx_word' id='word_1_7' title='bbox 777 519 1047 616; x_wconf 43' lang='lat' dir='ltr'>Figat&amp;</span> <span class='ocrx_word' id='word_1_8' title='bbox 1165 523 1196 561; x_wconf 64' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 304 673 488 762">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 304 673 488 762">
+     <span class='ocr_line' id='line_1_4' title="bbox 304 673 488 762; baseline -0.027 -27"><span class='ocrx_word' id='word_1_9' title='bbox 304 673 488 762; x_wconf 60' lang='lat' dir='ltr'><strong>Litempm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 263 593 268 1160">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 263 593 268 1160">
+     <span class='ocr_line' id='line_1_5' title="bbox 263 593 268 1160; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 263 593 268 1160; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 43 3648 1336 3778">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 43 3648 1336 3778">
+     <span class='ocr_line' id='line_1_6' title="bbox 43 3648 1336 3778; baseline -0.001 -31"><span class='ocrx_word' id='word_1_11' title='bbox 43 3655 499 3756; x_wconf 12' lang='lat' dir='ltr'><strong>&#39;‘Sadobo</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 602 3705 671 3770; x_wconf 65' lang='lat'><strong>00,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 777 3648 1336 3778; x_wconf 18' lang='lat' dir='ltr'><strong>vasta—m*¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1352 4580">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1352 4580">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1352 4580; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1352 4580; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
